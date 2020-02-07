@@ -109,8 +109,4 @@
 + [Сибирский федеральный университет](http://www.sfu-kras.ru/)
 + [Журнал "Современное образование: традиции и инновации](http://artnw.ru/news-and-events/zhurnal-sovremennoe-obrazovanie-tradicii-i-innovacii/) 
 
-
-
-```markdown
 <!-- Автор верстки: Андрей Портян -->
-```
